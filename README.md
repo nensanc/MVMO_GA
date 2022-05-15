@@ -1,3 +1,3 @@
 # MVMO_GA
-Implemtación de MVMO en DigSilent Power Factory con Python
+Implemtación de MVMO y GA en DigSilent Power Factory con Python
 
